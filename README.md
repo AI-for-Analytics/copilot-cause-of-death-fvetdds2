@@ -14,6 +14,16 @@ Our overall goal in this exercise is to read in and reshape the data contained i
 
 4. Make a side-by-side bar chart that compares the rates of death for males vs. females. To do this, you could select the Male_Rate and Female_Rate columns, melt the DataFrame, and create your plot. You may want to use seaborn to help with this.
 
+   <img width="1390" height="790" alt="image" src="https://github.com/user-attachments/assets/71d1a95f-5eba-4075-bf33-be88515648c3" />
+
+
 5. Now, create a function to read in the data for a different region and repeat the cleaning steps that you did above. Note that not all regions have the same number of rows, so you may need to adjust your code to deal with this. Hint: If you read in too many rows, you can drop those that have NaN in the Total_Rank column.
 
+
+
+
+
 6. Finally, read in the data across all of the regions to create one DataFrame containing everything.
+
+   <img width="1591" height="790" alt="image" src="https://github.com/user-attachments/assets/fe6a3551-1b7b-4f0b-8e8e-504685caecaa" />
+
