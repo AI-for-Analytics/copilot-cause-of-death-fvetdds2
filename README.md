@@ -16,4 +16,11 @@ Our overall goal in this exercise is to read in and reshape the data contained i
 
 5. Now, create a function to read in the data for a different region and repeat the cleaning steps that you did above. Note that not all regions have the same number of rows, so you may need to adjust your code to deal with this. Hint: If you read in too many rows, you can drop those that have NaN in the Total_Rank column.
 
+
+
+
+
 6. Finally, read in the data across all of the regions to create one DataFrame containing everything.
+
+   <img width="1591" height="790" alt="image" src="https://github.com/user-attachments/assets/fe6a3551-1b7b-4f0b-8e8e-504685caecaa" />
+
